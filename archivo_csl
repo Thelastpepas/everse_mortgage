@@ -1,0 +1,5 @@
+
+import pandas as pd
+
+# Leer archivo CSV
+df = pd.read_csv('C:\Users\b14s209\Desktop\homework\homework\calculos.xlsx')
